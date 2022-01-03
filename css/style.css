@@ -1,0 +1,47 @@
+.container{
+    border: 2px dashed black;
+    border-radius: 5px;
+    background-image: url("../images/white-paper-texture.jpg");
+    width: 600px;
+    margin: auto;
+
+    
+
+}
+.img{
+    display: block;
+}
+.survey-heading{
+    text-align: center;
+    font-size: 25px;
+}
+.survey-heading hr{
+    width: 350px;
+}
+
+.inner-form{
+    border: 2px solid black;
+    margin: 20px;
+    background-color: rgb(217, 213, 221);
+}
+.inner-form form{
+    margin-left: 130px;
+}
+    
+
+
+.inner-form .info{
+    width: 300px;
+    height: 20px;
+    border-radius: 5px;
+}
+.query-info{
+    width: 300px;
+    border-radius: 5px;
+}
+
+.submit-form{
+    margin-left: 80px;
+    
+    
+}
